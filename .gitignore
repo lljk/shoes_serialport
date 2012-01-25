@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.res
+bin/main.c
+shoes/version.h
+deps
+dist
+pkg
+*.app
+*~
+*.swp
+tags
+*.bundle
+*.so
